@@ -1,5 +1,5 @@
 import mysql.connector as cn
-password = 'saS20!03bk123'
+password = 'enter_your_password_here'
 
 try:
     # Connect to the MySQL server without specifying a database
